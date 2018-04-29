@@ -28,3 +28,6 @@ Icon
 
 /assets/avatars/*
 !/assets/avatars/index.html
+
+# Sass
+.sass-cache/
