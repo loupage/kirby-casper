@@ -20,7 +20,7 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FO
 ## Kirby
 
 Kirby is a file-based CMS.
-Easy to setup. Easy to use. Flexible as hell.
+Easy to setup. Easy to use.
 
 ## Trial
 
