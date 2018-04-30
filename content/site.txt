@@ -1,12 +1,12 @@
-Title: Kirby Starterkit
+Title: Kirby Casper
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Lou Page
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: The professional publishing platform!
 
 ----
 
