@@ -1,4 +1,21 @@
-# Kirby
+## Kirby Casper
+
+This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Kirby inspired by [jasper2](https://github.com/jekyller/jasper2).
+
+## Copyright & License
+
+Same licence as the one provided by Ghost's team. See Casper's theme [license](GHOST.txt).
+
+Copyright (C) 2015-2017 - Released under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Kirby
 
 Kirby is a file-based CMS.
 Easy to setup. Easy to use. Flexible as hell.
@@ -17,68 +34,3 @@ You can purchase your Kirby license at
 A Kirby license is valid for a single domain. You can find
 Kirby's license agreement here: <https://getkirby.com/license>
 
-## The Starterkit
-
-Kirby's Starterkit comes with a small demo website and a fully
-configured panel. Feel free to modify it and play with it as
-much as you like.
-
-There's also the [Langkit](https://github.com/getkirby/langkit.git)
-in case you need a multi-language installation.
-
-## The Panel
-
-You can find the login for Kirby's admin interface at
-http://yourdomain.com/panel. You will be guided through the signup
-process for your first user, when you visit the panel
-for the first time.
-
-## Installation
-
-Kirby does not require a database, which makes it very easy to
-install. Just copy Kirby's files to your server and visit the
-URL for your website in the browser.
-
-**Please check if the invisible .htaccess file has been
-copied to your server correctly**
-
-### Requirements
-
-Kirby runs on PHP 5.4+, Apache or Nginx.
-
-### Download
-
-You can download the latest version of the Starterkit
-from https://download.getkirby.com
-
-### With Git
-
-If you are familiar with Git, you can clone Kirby's
-Starterkit repository from Github.
-
-    git clone https://github.com/getkirby/starterkit.git
-
-## Documentation
-
-<https://getkirby.com/docs>
-
-## Issues and feedback
-
-If you have a Github account, please report issues
-directly on Github:
-
-- <https://github.com/getkirby/kirby/issues>
-- <https://github.com/getkirby/panel/issues>
-- <https://github.com/getkirby/starterkit/issues>
-
-Otherwise you can use Kirby's forum: https://forum.getkirby.com
-or send us an email: <support@getkirby.com>
-
-## Support
-
-<https://getkirby.com/support>
-
-## Copyright
-
-© 2009-2016 Bastian Allgeier (Bastian Allgeier GmbH)
-<http://getkirby.com>
