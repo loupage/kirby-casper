@@ -1,6 +1,8 @@
 ## Kirby Casper
 
-This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Kirby inspired by [jasper2](https://github.com/jekyller/jasper2).
+This is a work in process. 
+
+The goal is to port Ghost's default theme [Casper](https://github.com/tryghost/casper) for Kirby inspired by [jasper2](https://github.com/jekyller/jasper2).
 
 ## Copyright & License
 
