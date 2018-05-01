@@ -12,7 +12,11 @@ fields:
   description:
     label: Description
     type:  textarea
-    
+  
+  siteLogo:
+    label: Site Logo
+    type: image
+     
   copyright:
     label: Copyright
     type:  textarea

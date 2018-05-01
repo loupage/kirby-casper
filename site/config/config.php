@@ -27,4 +27,12 @@ By default you don't have to configure anything to
 make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
+/*
+---------------------------------------
+By default the folder/uri for your homepage is "home".
+Sometimes it makes sense to change that to make your blog
+your homepage for example. Just change it here in that case.
 */
+c::set('home', 'blog');
+c::set('debug', true);
+

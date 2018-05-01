@@ -11,3 +11,7 @@ Description: The professional publishing platform!
 ----
 
 Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
+
+----
+
+Sitelogo: blog-icon.png
